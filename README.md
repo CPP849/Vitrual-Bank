@@ -19,6 +19,12 @@ chmod +x bank
 ```
 ## Executing the Project
 All you need to do now is get into your "Downloads" folder and execute -->
+> Mac/Linux
 ```
 ./bank
 ```
+> Windows
+```
+./bank-windows
+```
+
